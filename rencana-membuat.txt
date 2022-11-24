@@ -1,0 +1,6 @@
+Sesuatu yang akan dibuat di tahun 2022
+--------------------------------------
+1. Web portofolio
+  - berisi sertifikat, pelatihan, juara lomba, dll.
+2. Wifi jammer using esp8266
+--------------------------------------
